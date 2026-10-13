@@ -1,0 +1,6 @@
+{
+  "name": "Mayraa AI",
+  "description": "Mayraa AI — Personal Voice Assistant developed and branded by Deepu Prankstar with real-time voice, native Android device tools, and futuristic UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mayraa AI</string>
+    <string name="app_subtitle">Personal Voice Assistant</string>
+    <string name="developer_name">Deepu Prankstar</string>
+    <string name="edition_tag">Deepu Prankstar Edition</string>
+    <string name="app_description">Mayraa is Deepu Prankstar\'s personal AI assistant, combining playful Hinglish voice conversation with powerful native Android device actions.</string>
+</resources>
